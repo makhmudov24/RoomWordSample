@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Words Sample</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hint_word">Напишите что нибудь...</string>
+    <string name="button_save">Сохранить</string>
+    <string name="empty_not_saved">Слово не сохраняется, потому что оно пустое.</string>
+    <string name="clear_all_data">Очистить все данные</string>
+    <string name="clearing_data">Очистка данных...</string>
+    <string name="unable_to_update">Невозможно обновить</string>
+</resources>
